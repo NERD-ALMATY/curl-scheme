@@ -1,5 +1,5 @@
 # curl-scheme
-[![Build Status](https://travis-ci.org/librerush/curl-scheme.svg?branch=master)](https://travis-ci.org/librerush/curl-scheme)
+[![build](https://github.com/NERD-ALMATY/curl-scheme/actions/workflows/ci.yml/badge.svg)](https://github.com/NERD-ALMATY/curl-scheme/actions/workflows/ci.yml)
 
 Simple HTTP client for Scheme (uses libcurl)
 
